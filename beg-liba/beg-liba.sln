@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "beg-liba", "beg-liba\beg-liba.vcxproj", "{A592DC20-D7F6-415C-9E80-53750B4B5FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Debug|x64.ActiveCfg = Debug|x64
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Debug|x64.Build.0 = Debug|x64
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Debug|x86.Build.0 = Debug|Win32
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Release|x64.ActiveCfg = Release|x64
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Release|x64.Build.0 = Release|x64
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Release|x86.ActiveCfg = Release|Win32
+		{A592DC20-D7F6-415C-9E80-53750B4B5FB1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D3A513-CC58-4725-8CF6-F4650C688B4A}
+	EndGlobalSection
+EndGlobal

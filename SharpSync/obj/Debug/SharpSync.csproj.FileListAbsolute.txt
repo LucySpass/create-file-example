@@ -1,0 +1,58 @@
+E:\Lessons\SysProg\2018\SharpSync\Debug\SharpSync.exe.config
+E:\Lessons\SysProg\2018\SharpSync\Debug\SharpSync.exe
+E:\Lessons\SysProg\2018\SharpSync\Debug\SharpSync.pdb
+E:\Lessons\SysProg\2018\SharpSync\SharpSync\obj\Debug\SharpSync.Form1.resources
+E:\Lessons\SysProg\2018\SharpSync\SharpSync\obj\Debug\SharpSync.Properties.Resources.resources
+E:\Lessons\SysProg\2018\SharpSync\SharpSync\obj\Debug\SharpSync.csproj.GenerateResource.Cache
+E:\Lessons\SysProg\2018\SharpSync\SharpSync\obj\Debug\SharpSync.csproj.CoreCompileInputs.cache
+E:\Lessons\SysProg\2018\SharpSync\SharpSync\obj\Debug\SharpSync.exe
+E:\Lessons\SysProg\2018\SharpSync\SharpSync\obj\Debug\SharpSync.pdb
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\Debug\SharpSync.exe.config
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\Debug\SharpSync.exe
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\Debug\SharpSync.pdb
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\SharpSync\obj\Debug\SharpSync.Form1.resources
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\SharpSync\obj\Debug\SharpSync.Properties.Resources.resources
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\SharpSync\obj\Debug\SharpSync.csproj.GenerateResource.Cache
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\SharpSync\obj\Debug\SharpSync.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\SharpSync\obj\Debug\SharpSync.exe
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\SharpSync\obj\Debug\SharpSync.pdb
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\SharpSync\SharpSync\obj\Debug\SharpSync.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\Debug\SharpSync.exe.config
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\Debug\SharpSync.exe
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\Debug\SharpSync.pdb
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\SharpSync\obj\Debug\SharpSync.Form1.resources
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\SharpSync\obj\Debug\SharpSync.Properties.Resources.resources
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\SharpSync\obj\Debug\SharpSync.csproj.GenerateResource.cache
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\SharpSync\obj\Debug\SharpSync.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\SharpSync\obj\Debug\SharpSync.exe
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\SharpSync\obj\Debug\SharpSync.pdb
+C:\Users\Ivana\Desktop\Универ\6 семестр\сис прог\SharpSync\SharpSync\obj\Debug\SharpSync.csprojResolveAssemblyReference.cache
+D:\DESKTOP 22.05.2018\iva\begovichLab1\Debug\SharpSync.exe.config
+D:\DESKTOP 22.05.2018\iva\begovichLab1\Debug\SharpSync.exe
+D:\DESKTOP 22.05.2018\iva\begovichLab1\Debug\SharpSync.pdb
+D:\DESKTOP 22.05.2018\iva\begovichLab1\SharpSync\obj\Debug\SharpSync.Form1.resources
+D:\DESKTOP 22.05.2018\iva\begovichLab1\SharpSync\obj\Debug\SharpSync.Properties.Resources.resources
+D:\DESKTOP 22.05.2018\iva\begovichLab1\SharpSync\obj\Debug\SharpSync.csproj.GenerateResource.cache
+D:\DESKTOP 22.05.2018\iva\begovichLab1\SharpSync\obj\Debug\SharpSync.csproj.CoreCompileInputs.cache
+D:\DESKTOP 22.05.2018\iva\begovichLab1\SharpSync\obj\Debug\SharpSync.exe
+D:\DESKTOP 22.05.2018\iva\begovichLab1\SharpSync\obj\Debug\SharpSync.pdb
+D:\DESKTOP 22.05.2018\iva\begovichLab1\SharpSync\obj\Debug\SharpSync.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\laba2\begovichLab1\Debug\SharpSync.exe.config
+C:\Users\Ivana\Desktop\laba2\begovichLab1\Debug\SharpSync.exe
+C:\Users\Ivana\Desktop\laba2\begovichLab1\Debug\SharpSync.pdb
+C:\Users\Ivana\Desktop\laba2\begovichLab1\SharpSync\obj\Debug\SharpSync.Form1.resources
+C:\Users\Ivana\Desktop\laba2\begovichLab1\SharpSync\obj\Debug\SharpSync.Properties.Resources.resources
+C:\Users\Ivana\Desktop\laba2\begovichLab1\SharpSync\obj\Debug\SharpSync.csproj.GenerateResource.cache
+C:\Users\Ivana\Desktop\laba2\begovichLab1\SharpSync\obj\Debug\SharpSync.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\laba2\begovichLab1\SharpSync\obj\Debug\SharpSync.exe
+C:\Users\Ivana\Desktop\laba2\begovichLab1\SharpSync\obj\Debug\SharpSync.pdb
+C:\Users\Ivana\Desktop\laba2\begovichLab1\SharpSync\obj\Debug\SharpSync.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\Debug\SharpSync.exe.config
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\Debug\SharpSync.exe
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\Debug\SharpSync.pdb
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\SharpSync\obj\Debug\SharpSync.Form1.resources
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\SharpSync\obj\Debug\SharpSync.Properties.Resources.resources
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\SharpSync\obj\Debug\SharpSync.csproj.GenerateResource.cache
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\SharpSync\obj\Debug\SharpSync.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\SharpSync\obj\Debug\SharpSync.exe
+C:\Users\Ivana\Desktop\laba2\begovichLab1\c++-create-file-example\SharpSync\obj\Debug\SharpSync.pdb
